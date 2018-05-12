@@ -1,0 +1,28 @@
+{
+  "name": "coinmarketcap-data",
+  "version": "0.0.1",
+  "description": "Cryptocurrency data from CoinMarketCap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/coinmarketcap-data.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "data",
+    "coinmarketcap"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/coinmarketcap-data/issues"
+  },
+  "homepage": "https://github.com/bitquant/coinmarketcap-data#readme",
+  "dependencies": {
+    "request": "2.85.0",
+    "request-promise-native": "1.0.5"
+  }
+}
